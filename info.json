@@ -1,1 +1,29 @@
+{"name":"PharmaDAO",
+"tokenSymbol":" ",
+"DaoOS":"Snapshot",
+"address":"",
+"description":"PharmaDAO is a Non Profit organization using Web3 technologies to re-center the pharmaceutical industry around people, not profits. PharmaDAO's goal is to involve as many people as possible and create a decentralized decision process for fair drug development and distribution.",
+"whitePaperLink":"https://www.pharmadao.net/",
+"gallery":[{
+       "name": "Intro",
+       "description": "Intro",
+       "mediaUrl": "https://i.imgur.com/Z949Eva.png",
+       "source": "image",
+       "link": "https://www.pharmadao.net/"
+   }
+],
+"deleted":false,
+"primaryColor":"#1a3b66",
+"twitterHandle":"https://x.com/Real_PharmaDao?s=20",
+"coingeckoId":"",
+"snapshotId":"",
+"logo":"https://i.imgur.com/XoeSPXW.jpg",
+"telegramLink":"",
+"discordLink":"",
+"website":"https://www.pharmadao.net/",
+"tokenDescription":"",
+"tokenTradeLink":"",
 
+"tags":["Decentralized funding", "Biopharma", "Focused Research"]
+  
+}
